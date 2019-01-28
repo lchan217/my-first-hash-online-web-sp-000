@@ -31,4 +31,5 @@ def adding
 
   # return the shipping_manifest hash below
    shipping_manifest
+ end
 end
